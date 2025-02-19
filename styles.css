@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(212, 210, 210)
+}
+p{
+    background-color:rgb(184, 182, 182) ;
+}
+.gris_contraste_oscuro{
+    background-color: gray;
+    width: 100%;
+    display: block;
+}
+h3{
+  /*contraste gris intermedio para el h3 idiomas*/ 
+  background-color: rgb(163, 163, 163);
+  font-style: italic; 
+}
+h2{
+    /*subrayado gordo para los h2*/
+    display: inline;
+    border-bottom: 4px solid black;
+    
+}
+.fondo_blanco_derecha{
+    background-color: white;
+    text-align: right;
+}
