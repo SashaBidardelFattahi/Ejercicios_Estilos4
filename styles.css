@@ -20,7 +20,7 @@ h2{
     border-bottom: 4px solid black;
     
 }
-.fondo_blanco_derecha{
+.fondo_blanco_derecha{ /*estilos para el correo*/
     background-color: white;
     text-align: right;
 }
